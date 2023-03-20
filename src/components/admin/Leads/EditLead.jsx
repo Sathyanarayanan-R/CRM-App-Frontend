@@ -99,7 +99,7 @@ const EditLead = () => {
                         />
                       </li>
                       <li>
-                        <b>Manager</b>
+                        <b>number</b>
                         <input
                           type="text"
                           name="number"
