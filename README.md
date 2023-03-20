@@ -85,13 +85,13 @@ Three sections of this app:-
  - Forgot Password Page for Admin, Manager & Employee
 
 
-Deployment Link : 
+Deployment Link : https://crm-app-sj.netlify.app/
 
 
-Frontend Link : https://github.com/CRM App/client
+Frontend Link : https://github.com/Sathyanarayanan-R/CRM-App/tree/main/client
 
 
-Backend Link : https://github.com/CRM App/server
+Backend Link : https://github.com/Sathyanarayanan-R/CRM-App/tree/main/server2
 
 
 # Credentials to try out the app :
